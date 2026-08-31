@@ -9,6 +9,14 @@ We are recruiting. Formal advertisements are coming soon; details of the
 funded positions below. Informal enquiries to
 [jiabao.xu@glasgow.ac.uk](mailto:jiabao.xu@glasgow.ac.uk) are very welcome.
 
+**PEEN**
+
+Postdoctoral position, opening September 2026. Funded by BBSRC (2025 Transformative Research Technologies), the PEEN project develops plasmon-enhanced expansion nanoscopy to unlock the phenotypic dark matter of the microbial world. The formal advertisement is coming soon; informal enquiries are welcome.
+
+**DECODE-FATIGUE**
+
+Postdoctoral position, opening September 2026. Funded by the Lorna and Yuti Chernajovsky Biomedical Research Foundation, DECODE-FATIGUE deciphers oxidative and neurometabolic drivers of fatigue in immune-mediated inflammatory diseases using single-cell Raman spectroscopy. The formal advertisement is coming soon; informal enquiries are welcome.
+
 <ul>
 {% for v in site.data.vacancies %}
   <li>

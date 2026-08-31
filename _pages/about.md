@@ -30,4 +30,4 @@ latest_posts:
 
 Single-cell Raman spectroscopy, AI-driven bioanalytics, infectious-disease diagnostics.
 
-MISSION PARAGRAPH PENDING OWNER APPROVAL
+The Xu Lab develops single-cell Raman spectroscopy and artificial intelligence to read the chemistry of living cells without labels. We build Raman technologies for sorting and profiling individual cells, and pair them with machine learning to turn spectra into diagnoses. Our work spans rapid culture-free identification of pathogens and antimicrobial resistance, and label-free profiling of immune cells for cancer, autoimmune and chronic disease. We are based in the James Watt School of Engineering at the University of Glasgow.
