@@ -16,12 +16,3 @@ Postdoctoral position, opening September 2026. Funded by BBSRC (2025 Transformat
 **DECODE-FATIGUE**
 
 Postdoctoral position, opening September 2026. Funded by the Lorna and Yuti Chernajovsky Biomedical Research Foundation, DECODE-FATIGUE deciphers oxidative and neurometabolic drivers of fatigue in immune-mediated inflammatory diseases using single-cell Raman spectroscopy. The formal advertisement is coming soon; informal enquiries are welcome.
-
-<ul>
-{% for v in site.data.vacancies %}
-  <li>
-    <strong>Postdoctoral position: {{ v.title }}</strong><br>
-    Funded by {{ v.funder }}{% if v.scheme %} ({{ v.scheme }}){% endif %}{% if v.opens %}, opening {{ v.opens }}{% endif %}
-  </li>
-{% endfor %}
-</ul>
