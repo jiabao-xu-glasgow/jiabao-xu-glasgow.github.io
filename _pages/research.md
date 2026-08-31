@@ -13,15 +13,32 @@ Raman-Activated Cell Sorting (RACS), Raman Stable Isotope Probing (Raman-SIP), l
 
 Representative outputs:
 
+- Microwell-assembled aluminum substrates for enhanced single-cell analysis: A novel approach for cancer cell profiling by Raman spectroscopy. Talanta, 2025. [doi](https://doi.org/10.1016/j.talanta.2024.127149)
+- High-throughput single-cell sorting by stimulated Raman-activated cell ejection. Science Advances, 2024. [doi](https://doi.org/10.1126/sciadv.adn6373)
+- A single-cell Raman-based platform to identify developmental stages of human pluripotent stem cell-derived neurons. Proceedings of the National Academy of Sciences, 2020. [doi](https://doi.org/10.1073/pnas.2001906117)
+- Raman Deuterium Isotope Probing Reveals Microbial Metabolism at the Single-Cell Level. Analytical Chemistry, 2017. [doi](https://doi.org/10.1021/acs.analchem.7b03461)
 - Raman-integrated optical photothermal infrared microscopy: technology and applications. Molecular and Laser Spectroscopy: Advances and Applications, Volume 3, 2022. [doi](https://doi.org/10.1016/b978-0-323-91249-5.00004-1)
 
 ## Artificial Intelligence and Data-Driven Bioanalytics
 
 Machine learning and deep learning pipelines for disease classification, multimodal learning across Raman spectra, omics, images and clinical metadata, denoising autoencoders, explainable AI
 
+Representative outputs:
+
+- Machine learning-driven optimization of metabolic balance for β-carotene production. Metabolic Engineering, 2026. [doi](https://doi.org/10.1016/j.ymben.2025.12.002)
+- A metabolic map and artificial intelligence-aided identification of nasopharyngeal carcinoma via a single-cell Raman platform. British Journal of Cancer, 2024. [doi](https://doi.org/10.1038/s41416-024-02637-3)
+- Artificial intelligence-aided rapid and accurate identification of clinical fungal infections by single-cell Raman spectroscopy. Frontiers in Microbiology, 2023. [doi](https://doi.org/10.3389/fmicb.2023.1125676)
+
 ## Host-Pathogen Interactions and Infectious Disease
 
 Single-cell pathogen and immune profiling, rapid pathogen identification, antimicrobial resistance profiling, culture-free diagnostics
+
+Representative outputs:
+
+- Rapid culture-free diagnosis of clinical pathogens via integrated microfluidic-Raman micro-spectroscopy. Nature Communications, 2026. [doi](https://doi.org/10.1038/s41467-025-66996-y)
+- High-Speed Diagnosis of Bacterial Pathogens at the Single Cell Level by Raman Microspectroscopy with Machine Learning Filters and Denoising Autoencoders. ACS Chemical Biology, 2022. [doi](https://doi.org/10.1021/acschembio.1c00834)
+- Fingerprinting Bacterial Metabolic Response to Erythromycin by Raman-Integrated Mid-Infrared Photothermal Microscopy. Analytical Chemistry, 2020. [doi](https://doi.org/10.1021/acs.analchem.0c02489)
+- Single-Cell and Time-Resolved Profiling of Intracellular Salmonella Metabolism in Primary Human Cells. Analytical Chemistry, 2019. [doi](https://doi.org/10.1021/acs.analchem.9b01010)
 
 ## Immune Cells for Disease Diagnostics
 
@@ -29,4 +46,7 @@ Raman-based PBMC profiling, label-free diagnostics for cancer, autoimmune disord
 
 Representative outputs:
 
+- Raman micro-spectroscopy as a tool to study immunometabolism. Biochemical Society Transactions, 2024. [doi](https://doi.org/10.1042/bst20230794)
+- A metabolic map and artificial intelligence-aided identification of nasopharyngeal carcinoma via a single-cell Raman platform. British Journal of Cancer, 2024. [doi](https://doi.org/10.1038/s41416-024-02637-3)
+- Developing a Blood Cell-Based Diagnostic Test for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Using Peripheral Blood Mononuclear Cells. Advanced Science, 2023. [doi](https://doi.org/10.1002/advs.202302146)
 - Using Single-Cell Raman Microspectroscopy to Profile Human Peripheral Blood Mononuclear Cells. Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): Methods and Protocols (Springer US), 2025. [doi](https://doi.org/10.1007/978-1-0716-4498-0_3)
