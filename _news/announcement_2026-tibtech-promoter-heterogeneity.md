@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-08-01
+date: 2026-08-26
 inline: true
 related_posts: false
 generated_by: track-record
