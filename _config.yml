@@ -357,14 +357,16 @@ display_categories: ["external-services"] # these categories will be displayed o
 scholar:
   # Publications carry the owner's braced author literal exactly as written by the
   # track-record generator: "Xu Jiabao" plus, on some papers, a co-first dagger and/or
-  # a corresponding asterisk appended inside the same brace (e.g. "Xu Jiabao†*"). Since
-  # the whole braced literal is treated as one last-name token (see papers_bib in
-  # .claude/skills/track-record), list every marker combination so highlighting matches
-  # regardless of her role on a given paper. No first_name: the literal has no separate
-  # first-name token to match against. Verify at the Task 9 build and adjust if the
-  # checked-out jekyll-scholar version matches differently.
-  last_name: ["Xu Jiabao", "Xu Jiabao†", "Xu Jiabao*", "Xu Jiabao†*"]
-  first_name: []
+  # a corresponding asterisk appended inside the same brace (e.g. "Xu Jiabao†*"). The
+  # al_folio_core bib template strips marker characters ([*∗†‡§¶‖&^]) from author.last
+  # BEFORE comparing against site.scholar.last_name, so the marker-suffixed variants
+  # never match anything and only the bare name belongs here. It also requires
+  # site.scholar.first_name to contain author.first; because the whole braced literal
+  # is parsed as one last-name token, bibtex-ruby leaves the first name blank, so
+  # first_name must contain the empty string (NOT an empty array, whose `contains` is
+  # always false) for the match to succeed. Verified at the Task 9 build.
+  last_name: ["Xu Jiabao"]
+  first_name: [""]
 
   style: apa
   locale: en
